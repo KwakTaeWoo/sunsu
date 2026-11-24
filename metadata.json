@@ -1,0 +1,6 @@
+{
+  "name": "오늘의 저녁 식탁",
+  "description": "오늘의 실시간 날씨와 계절에 어울리는 저녁 메뉴 5가지를 추천해 주는 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
